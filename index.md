@@ -2,7 +2,7 @@
 
 Last updated: December 2025
 
-BetSmart respects your privacy. This application is designed as a football betting analysis and tracking tool and does **not** operate as a gambling platform.
+BetSmart respects your privacy. This application is designed as a football match analytics and statistics tool and does **not** operate as a gambling platform.
 
 ---
 
@@ -12,7 +12,7 @@ BetSmart does **not** collect, store, or share any personally identifiable infor
 
 The application may process the following **non-personal** data locally or via secure servers:
 - Match statistics
-- Odds data
+- Match-related statistical data
 - Analytical results
 - Application usage for performance optimization
 
@@ -38,7 +38,7 @@ Monetization (if applicable) is based exclusively on premium subscriptions.
 
 ---
 
-## 4. Betting Disclaimer
+## 4. Analytics Disclaimer
 
 BetSmart does **not** accept real-money bets.
 The app provides **statistical insights and analytical tools only**.
