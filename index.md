@@ -78,3 +78,25 @@ For any questions regarding this Privacy Policy, you may contact:
 
 Email: snokse3@gmail.com  
 GitHub: https://github.com/snokse
+
+
+## 9. Facebook Data Usage
+
+This application integrates with Facebook APIs to manage and analyze Facebook Pages.
+
+We may request access to:
+- Page posts and content
+- Page engagement data (likes, comments)
+- Permission to publish posts on behalf of the Page
+
+This data is used strictly for:
+- Automating content publishing
+- Analyzing engagement and performance
+- Improving content strategy
+
+We do NOT:
+- Store personal Facebook user data
+- Sell or share Facebook data with third parties
+
+Users can revoke access at any time via their Facebook account settings:
+https://www.facebook.com/settings?tab=applications
